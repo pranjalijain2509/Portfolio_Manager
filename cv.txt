@@ -1,0 +1,7 @@
+atul tripathi 
+21 
+ language : 
+ english python c++ 
+ skills : 
+ public speaker analytics leader 
+
